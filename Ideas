@@ -1,0 +1,23 @@
+Generalise the “transfer wire” mechanism - Currency Cloud
+
+Question some of the basic concepts => accounts
+Technology => what can be changed in the implementation
+Think 
+
+Payment => Once a day aggregated, based on records
+
+Transfer => Keeping track of how much banks owe each other
+
+Target 2=> Interconnection B/W Several Central banks 
+
+Issues
+
+Scale
+Real time
+No interoperability
+Micro payment 
+Separate infra for different types of “transaction”
+
+It matters today how big a payment is=> different infra
+
+How can it be so complex to just move data around?
